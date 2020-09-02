@@ -1,4 +1,4 @@
-student1 = {"name": "AbulKabeer", "age": 19, "marks": 40}
+student1 = {"name": "abdullah mujtaba", "age": 19, "marks": 40}
 print(student1)                     # printing a dictionary
 
 #printing values of the dictionary
